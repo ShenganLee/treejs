@@ -1,0 +1,28 @@
+{
+  "name": "treejs",
+  "version": "1.0.0",
+  "description": "js 树形结构工具类",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShenganLee/treejs.git"
+  },
+  "keywords": [
+    "javascript",
+    "tree",
+    "utils"
+  ],
+  "author": "ShenganLee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShenganLee/treejs/issues"
+  },
+  "homepage": "https://github.com/ShenganLee/treejs#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "tslib": "^2.5.0"
+  }
+}
